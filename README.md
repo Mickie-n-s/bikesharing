@@ -8,7 +8,7 @@ We created a project which analyzed data from New York to predict the viability 
 - Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3, Tableau Public 2020.3.2
 
 ## Results
-#link to tableau page
+# link to tableau page
 
 https://public.tableau.com/app/profile/mickie3453/viz/CitibikeChallenge_16688192577880/Story1#1
 
