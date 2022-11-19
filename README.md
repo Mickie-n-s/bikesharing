@@ -1,14 +1,16 @@
 # bikesharing
 
 ## Project Overview
-This project is an analysis of New York Citi Bike data, using data visualization tools to explore the viability of a bike-sharing business in Des Moines.
+We created a project which analyzed data from New York to predict the viability of a similar business in Des Moines, Iowa.
 
 ## Resources
 - Data Source: [Citi Bike Data](https://www.citibikenyc.com/system-data), [201908-citibike-tripdata.csv.zip](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip)
 - Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3, Tableau Public 2020.3.2
 
 ## Results
+#link to tableau page
 
+https://public.tableau.com/app/profile/mickie3453/viz/CitibikeChallenge_16688192577880/Story1#1
 
 ### New York Citi Bike data visualizations for August 2019
 
@@ -18,7 +20,7 @@ This project is an analysis of New York Citi Bike data, using data visualization
 
 - There were over 2.3 million rides for the month of August 2019.
 - 81% of the users were subscribers. 65% of the users were confirmed males and 25% were confirmed females.
-- There is a wide range of the age of the users. Younger users tend to use the service for longer rides.
+- Riders ranged widely in age, and younger drivers tended to take longer rides. 
 - Top ride starting locations are in the most touristic and busy areas, as we see here in Manhattan.
 
 <br>
@@ -29,7 +31,7 @@ This project is an analysis of New York Citi Bike data, using data visualization
 </p>
 
 - Highest activity hours are from 5:00 PM to 7:00 PM and require the most resources mobilized.
-- The activity from 2:00 AM to 5:00 AM is low so this would be the window for bike maintenance.
+- The activity from 2:00 AM to 5:00 AM is low. this would be a good time to maintain the bikes.
 
 <br>
 
